@@ -1,1 +1,1 @@
-Programa Simples para procurar codigos no Torah
+Simple program to find Torah codes
